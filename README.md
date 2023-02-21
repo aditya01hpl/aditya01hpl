@@ -1,4 +1,4 @@
-## नमस्ते (Namaste) 🙏 , I'm [Aditya!](https://aditya01hpl.github.io) 
+## Hello , [Aditya This Side!](https://aditya01hpl.github.io) 
 <a href="https://www.linkedin.com/in/aditya-mishra-078584219/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
