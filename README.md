@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aditya Mishra</h1>
-<h3 align="center">Love exploring new trends in AI and Data Science</h3>
+<h3 align="center">Love exploring new trends in ML and Data Science</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya01hpl&label=Profile%20views&color=0e75b6&style=flat" alt="aditya01hpl" /> </p>
 
-- 🔭 I’m currently working on [Dreambooth + LoRA Adapter Merging](https://github.com/rajlm10/dreambooth_lora_merging)
+- 🔭 I’m currently working on [Mental Health Chatbot](https://github.com/rajlm10/dreambooth_lora_merging)
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
+- 🌱 I’m currently learning **LLM**
 
 - 💬 Ask me about **Machine Learning**
 
