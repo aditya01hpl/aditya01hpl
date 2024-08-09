@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya01hpl&label=Profile%20views&color=0e75b6&style=flat" alt="aditya01hpl" /> </p>
 
-- 🔭 I’m currently working on [Mental Health Chatbot](https://github.com/rajlm10/dreambooth_lora_merging)
+- 🔭 I’m currently working on [Mental Health Chatbot](https://github.com/aditya01hpl/Mental-Health-Chatboat)
 
 - 🌱 I’m currently learning **LLM**
 
